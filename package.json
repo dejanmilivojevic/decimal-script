@@ -1,0 +1,21 @@
+{
+    "name": "decimal-script",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "jest": {
+        "testEnvironment": "node"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "decimal.js": "^10.4.3"
+    },
+    "devDependencies": {
+        "jest": "^29.7.0"
+    }
+}
